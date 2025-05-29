@@ -5,7 +5,7 @@ author: Chris Fretz
 date: 2025-05-29T10:36:00.000Z
 tags:
   - post
-image: /public/assets/images/img_20240327_165035510_hdr-1-.jpg
+image: /assets/images/img_20240327_165035510_hdr-1-.jpg
 imageAlt: Opal dear
 ---
 ### Good? Good!
@@ -28,4 +28,4 @@ It has code:
 
 > We must resist! -Luke Skywalker
 
-![Opal uses the laptop as a scratching post.](/public/assets/images/img_20240327_165035510_hdr-1-.jpg "Opal, a very fine cat")
+![Opal uses the laptop as a scratching post.](/assets/images/img_20240327_165035510_hdr-1-.jpg "Opal, a very fine cat")
