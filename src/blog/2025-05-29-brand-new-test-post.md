@@ -5,8 +5,8 @@ author: Chris Fretz
 date: 2025-05-29T10:36:00.000Z
 tags:
   - post
-image: /public/assets/images/img_20240327_165035510_hdr-1-.jpg
-imageAlt: Opal uses the laptop as a scratching post.
+image: /public/assets/images/img_20250209_132459777.jpg
+imageAlt: Mufasa with plants
 ---
 ### Good? Good!
 
